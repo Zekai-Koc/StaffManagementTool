@@ -3,9 +3,7 @@ import "./App.css";
 function App() {
    return (
       <div className="App">
-         <header className="App-header">
-            <p>starting...</p>
-         </header>
+         <header className="App-header">STAFF MANAGEMENT TOOL</header>
       </div>
    );
 }
